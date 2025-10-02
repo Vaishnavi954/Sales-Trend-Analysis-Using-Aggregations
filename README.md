@@ -25,7 +25,7 @@ Analyze **monthly revenue** and **order volume** from the online sales dataset t
 - Monthly sales revenue is stable in the $550k–$640k range.
 - Occasional peaks suggest seasonal demand cycles.
 - The drop in early 2025 indicates either incomplete data or reduced sales activity.
--  ]Order volume follows revenue trends closely, confirming sales consistency.
+- Order volume follows revenue trends closely, confirming sales consistency.
 
 ---
 <img width="1920" height="1080" alt="Screenshot 2025-10-02 164433" src="https://github.com/user-attachments/assets/2e974c75-f40d-4db7-b552-3661e9449fc6" />
